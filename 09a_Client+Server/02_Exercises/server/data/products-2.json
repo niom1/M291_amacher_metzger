@@ -1,0 +1,8 @@
+[
+    {"name": "Nike Airforce (pro Stck.)", "price": 120.00, "discount": 10},
+    {"name": "Reebook Classic (pro Stck.)", "price": 100.00, "discount": 8},
+    {"name": "Adidas Originlas (pro Stck.)", "price": 110.00, "discount": 15},
+    {"name": "Converce (pro Stck.)", "price": 90.00, "discount": 10},
+    {"name": "Birkenstock Bend Low (pro Stck.)", "price": 160.00, "discount": 20},
+    {"name": "Puma Smash  (pro Stck.)", "price": 45.00, "discount": 5}
+]
